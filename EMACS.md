@@ -10,8 +10,12 @@
 * Very context understanding. Nice how it remembers that successive `ctrl k`s is the same block and yanks all of them together
 
 ## Botherations
+
 * Too much effort to type numeric arguments to commands `ctrl u 10 ctrl v`
+* Easier way to navigate the yank ring?
+
 
 ## Questions
+
 * What does the `a` in `ctrl a` mean? 
 * Why suddenly to use `ctrl w` to delete a region? 
